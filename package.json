@@ -1,0 +1,19 @@
+{
+  "name": "02-desafione",
+  "version": "1.0.0",
+  "description": "Desafio 02 node-express js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon js/index.js"
+  },
+  "keywords": [],
+  "author": "illancapan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

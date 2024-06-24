@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "titulo": "Skyfall",
+    "artista": "Adele",
+    "tono": "g#"
+  },
+  {
+    "id": 2,
+    "titulo": "Bohemian Rhapsody",
+    "artista": "Queen",
+    "tono": "c"
+  },
+  {
+    "id": 3,
+    "titulo": "Shape of You",
+    "artista": "Ed Sheeran",
+    "tono": "d"
+  },
+  {
+    "id": 4,
+    "titulo": "Yesterday",
+    "artista": "The Beatles",
+    "tono": "f"
+  },
+  {
+    "id": 6,
+    "titulo": "Hallelujah",
+    "artista": "Leonard Cohen",
+    "tono": "e"
+  },
+  {
+    "id": 7,
+    "titulo": "Wonderwall",
+    "artista": "Oasis",
+    "tono": "a"
+  },
+  {
+    "id": 8,
+    "titulo": "Rolling in the Deep",
+    "artista": "Adele",
+    "tono": "c#"
+  },
+  {
+    "id": 9,
+    "titulo": "Billie Jean",
+    "artista": "Michael Jackson",
+    "tono": "g#"
+  },
+  {
+    "id": 10,
+    "titulo": "Despacito",
+    "artista": "Luis Fonsi",
+    "tono": "bm"
+  },
+  {
+    "id": 10,
+    "titulo": "Despacito",
+    "artista": "Luis Fonsi",
+    "tono": "b"
+  },
+  {
+    "id": 11,
+    "titulo": "Black Sheep",
+    "artista": "Scott Pilgrim Vs. The World",
+    "tono": "Bm"
+  }
+]
